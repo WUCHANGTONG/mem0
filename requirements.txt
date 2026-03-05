@@ -1,0 +1,18 @@
+# 老年人助手 Agent 框架依赖
+
+# 核心依赖
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-openai>=0.0.2
+
+# Mem0 记忆框架
+mem0ai>=0.1.0
+mem0>=0.1.0
+
+# 环境变量管理
+python-dotenv>=1.0.0
+
+# 可选依赖
+# openai>=1.0.0  # LangChain 会自动安装
+# tiktoken>=0.5.0  # 用于token计数
+
